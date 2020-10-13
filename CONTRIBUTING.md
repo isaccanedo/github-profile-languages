@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/github-profile-languages/issues
+[1]: https://github.com/isaccanedo/github-profile-languages/issues
 
-[2]: https://github.com/IonicaBizau/code-style
+[2]: https://github.com/isaccanedo/code-style
